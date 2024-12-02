@@ -23,9 +23,13 @@ Ensure you have the following:
 - A C++ compiler (e.g., `g++`).
 - A terminal or command prompt for execution.
 
+## URL 
+-https://github.com/Vaibhav7xctrl/numberGame
+
 ### Installation
 
 1. Clone this repository to your local machine:
    ```bash
    git clone git@github.com:Vaibhav7xctrl/numberGame.git
    cd numberGame
+
